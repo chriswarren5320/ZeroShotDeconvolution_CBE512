@@ -7,5 +7,3 @@ Credit is due to https://tristazeng.github.io/ZS-DeconvNet-page/, from which thi
 This package includes the Python implementation of training and inference, and MATLAB implementation of training data generation and simulation of PSF. 
 
 This repository contains the code used to implement, modify, and test the ZS-Deconvnet denoising and deconvolution algorthim on simulated datasets and biological samples from our lab. 
-
- % ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
